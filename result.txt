@@ -1,0 +1,671 @@
+number of sets: 4
+number of lines per set: 2
+number of block bits: 4
+The trace files is: traces/trans.trace
+ S 600aa0,1, miss 
+Tag is: 1802a, blockOffset is: 0, set index: 2
+ S 7ff000398,8, miss 
+Tag is: 1ffc000e, blockOffset is: 8, set index: 1
+I am hit!!! my index is: 0
+ S 7ff000390,8, hit 
+Tag is: 1ffc000e, blockOffset is: 0, set index: 1
+ S 7ff000378,8, miss 
+Tag is: 1ffc000d, blockOffset is: 8, set index: 3
+I am hit!!! my index is: 0
+ S 7ff000370,8, hit 
+Tag is: 1ffc000d, blockOffset is: 0, set index: 3
+ S 7ff000384,4, miss 
+Tag is: 1ffc000e, blockOffset is: 4, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000384,4 hit 
+Tag is: 1ffc000e, blockOffset is: 4, set index: 0
+I am hit!!! my index is: 0
+ S 7ff000388,4, hit 
+Tag is: 1ffc000e, blockOffset is: 8, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000388,4 hit 
+Tag is: 1ffc000e, blockOffset is: 8, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000384,4 hit 
+Tag is: 1ffc000e, blockOffset is: 4, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000378,8 hit 
+Tag is: 1ffc000d, blockOffset is: 8, set index: 3
+I am hit!!! my index is: 0
+ L 7ff000388,4 hit 
+Tag is: 1ffc000e, blockOffset is: 8, set index: 0
+ L 600a20,4 miss 
+Tag is: 18028, blockOffset is: 0, set index: 2
+I am hit!!! my index is: 0
+ S 7ff00038c,4, hit 
+Tag is: 1ffc000e, blockOffset is: 12, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000388,4 hit 
+Tag is: 1ffc000e, blockOffset is: 8, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000370,8 hit 
+Tag is: 1ffc000d, blockOffset is: 0, set index: 3
+I am hit!!! my index is: 0
+ L 7ff000384,4 hit 
+Tag is: 1ffc000e, blockOffset is: 4, set index: 0
+I am hit!!! my index is: 0
+ L 7ff00038c,4 hit 
+Tag is: 1ffc000e, blockOffset is: 12, set index: 0
+i am kicking index: 0
+ S 600a60,4, miss eviction 
+Tag is: 18029, blockOffset is: 0, set index: 2
+I am hit!!! my index is: 0
+I am hit!!! my index is: 0
+ M 7ff000388,4, hit hit 
+Tag is: 1ffc000e, blockOffset is: 8, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000388,4 hit 
+Tag is: 1ffc000e, blockOffset is: 8, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000384,4 hit 
+Tag is: 1ffc000e, blockOffset is: 4, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000378,8 hit 
+Tag is: 1ffc000d, blockOffset is: 8, set index: 3
+I am hit!!! my index is: 0
+ L 7ff000388,4 hit 
+Tag is: 1ffc000e, blockOffset is: 8, set index: 0
+I am hit!!! my index is: 1
+ L 600a24,4 hit 
+Tag is: 18028, blockOffset is: 4, set index: 2
+I am hit!!! my index is: 0
+ S 7ff00038c,4, hit 
+Tag is: 1ffc000e, blockOffset is: 12, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000388,4 hit 
+Tag is: 1ffc000e, blockOffset is: 8, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000370,8 hit 
+Tag is: 1ffc000d, blockOffset is: 0, set index: 3
+I am hit!!! my index is: 0
+ L 7ff000384,4 hit 
+Tag is: 1ffc000e, blockOffset is: 4, set index: 0
+I am hit!!! my index is: 0
+ L 7ff00038c,4 hit 
+Tag is: 1ffc000e, blockOffset is: 12, set index: 0
+ S 600a70,4, miss 
+Tag is: 18029, blockOffset is: 0, set index: 3
+I am hit!!! my index is: 0
+I am hit!!! my index is: 0
+ M 7ff000388,4, hit hit 
+Tag is: 1ffc000e, blockOffset is: 8, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000388,4 hit 
+Tag is: 1ffc000e, blockOffset is: 8, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000384,4 hit 
+Tag is: 1ffc000e, blockOffset is: 4, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000378,8 hit 
+Tag is: 1ffc000d, blockOffset is: 8, set index: 3
+I am hit!!! my index is: 0
+ L 7ff000388,4 hit 
+Tag is: 1ffc000e, blockOffset is: 8, set index: 0
+I am hit!!! my index is: 1
+ L 600a28,4 hit 
+Tag is: 18028, blockOffset is: 8, set index: 2
+I am hit!!! my index is: 0
+ S 7ff00038c,4, hit 
+Tag is: 1ffc000e, blockOffset is: 12, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000388,4 hit 
+Tag is: 1ffc000e, blockOffset is: 8, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000370,8 hit 
+Tag is: 1ffc000d, blockOffset is: 0, set index: 3
+I am hit!!! my index is: 0
+ L 7ff000384,4 hit 
+Tag is: 1ffc000e, blockOffset is: 4, set index: 0
+I am hit!!! my index is: 0
+ L 7ff00038c,4 hit 
+Tag is: 1ffc000e, blockOffset is: 12, set index: 0
+ S 600a80,4, miss 
+Tag is: 1802a, blockOffset is: 0, set index: 0
+I am hit!!! my index is: 0
+I am hit!!! my index is: 0
+ M 7ff000388,4, hit hit 
+Tag is: 1ffc000e, blockOffset is: 8, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000388,4 hit 
+Tag is: 1ffc000e, blockOffset is: 8, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000384,4 hit 
+Tag is: 1ffc000e, blockOffset is: 4, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000378,8 hit 
+Tag is: 1ffc000d, blockOffset is: 8, set index: 3
+I am hit!!! my index is: 0
+ L 7ff000388,4 hit 
+Tag is: 1ffc000e, blockOffset is: 8, set index: 0
+I am hit!!! my index is: 1
+ L 600a2c,4 hit 
+Tag is: 18028, blockOffset is: 12, set index: 2
+I am hit!!! my index is: 0
+ S 7ff00038c,4, hit 
+Tag is: 1ffc000e, blockOffset is: 12, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000388,4 hit 
+Tag is: 1ffc000e, blockOffset is: 8, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000370,8 hit 
+Tag is: 1ffc000d, blockOffset is: 0, set index: 3
+I am hit!!! my index is: 0
+ L 7ff000384,4 hit 
+Tag is: 1ffc000e, blockOffset is: 4, set index: 0
+I am hit!!! my index is: 0
+ L 7ff00038c,4 hit 
+Tag is: 1ffc000e, blockOffset is: 12, set index: 0
+ S 600a90,4, miss 
+Tag is: 1802a, blockOffset is: 0, set index: 1
+I am hit!!! my index is: 0
+I am hit!!! my index is: 0
+ M 7ff000388,4, hit hit 
+Tag is: 1ffc000e, blockOffset is: 8, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000388,4 hit 
+Tag is: 1ffc000e, blockOffset is: 8, set index: 0
+I am hit!!! my index is: 0
+I am hit!!! my index is: 0
+ M 7ff000384,4, hit hit 
+Tag is: 1ffc000e, blockOffset is: 4, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000384,4 hit 
+Tag is: 1ffc000e, blockOffset is: 4, set index: 0
+I am hit!!! my index is: 0
+ S 7ff000388,4, hit 
+Tag is: 1ffc000e, blockOffset is: 8, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000388,4 hit 
+Tag is: 1ffc000e, blockOffset is: 8, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000384,4 hit 
+Tag is: 1ffc000e, blockOffset is: 4, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000378,8 hit 
+Tag is: 1ffc000d, blockOffset is: 8, set index: 3
+I am hit!!! my index is: 0
+ L 7ff000388,4 hit 
+Tag is: 1ffc000e, blockOffset is: 8, set index: 0
+i am kicking index: 1
+ L 600a30,4 miss eviction 
+Tag is: 18028, blockOffset is: 0, set index: 3
+I am hit!!! my index is: 0
+ S 7ff00038c,4, hit 
+Tag is: 1ffc000e, blockOffset is: 12, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000388,4 hit 
+Tag is: 1ffc000e, blockOffset is: 8, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000370,8 hit 
+Tag is: 1ffc000d, blockOffset is: 0, set index: 3
+I am hit!!! my index is: 0
+ L 7ff000384,4 hit 
+Tag is: 1ffc000e, blockOffset is: 4, set index: 0
+I am hit!!! my index is: 0
+ L 7ff00038c,4 hit 
+Tag is: 1ffc000e, blockOffset is: 12, set index: 0
+I am hit!!! my index is: 0
+ S 600a64,4, hit 
+Tag is: 18029, blockOffset is: 4, set index: 2
+I am hit!!! my index is: 0
+I am hit!!! my index is: 0
+ M 7ff000388,4, hit hit 
+Tag is: 1ffc000e, blockOffset is: 8, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000388,4 hit 
+Tag is: 1ffc000e, blockOffset is: 8, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000384,4 hit 
+Tag is: 1ffc000e, blockOffset is: 4, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000378,8 hit 
+Tag is: 1ffc000d, blockOffset is: 8, set index: 3
+I am hit!!! my index is: 0
+ L 7ff000388,4 hit 
+Tag is: 1ffc000e, blockOffset is: 8, set index: 0
+I am hit!!! my index is: 1
+ L 600a34,4 hit 
+Tag is: 18028, blockOffset is: 4, set index: 3
+I am hit!!! my index is: 0
+ S 7ff00038c,4, hit 
+Tag is: 1ffc000e, blockOffset is: 12, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000388,4 hit 
+Tag is: 1ffc000e, blockOffset is: 8, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000370,8 hit 
+Tag is: 1ffc000d, blockOffset is: 0, set index: 3
+I am hit!!! my index is: 0
+ L 7ff000384,4 hit 
+Tag is: 1ffc000e, blockOffset is: 4, set index: 0
+I am hit!!! my index is: 0
+ L 7ff00038c,4 hit 
+Tag is: 1ffc000e, blockOffset is: 12, set index: 0
+i am kicking index: 1
+ S 600a74,4, miss eviction 
+Tag is: 18029, blockOffset is: 4, set index: 3
+I am hit!!! my index is: 0
+I am hit!!! my index is: 0
+ M 7ff000388,4, hit hit 
+Tag is: 1ffc000e, blockOffset is: 8, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000388,4 hit 
+Tag is: 1ffc000e, blockOffset is: 8, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000384,4 hit 
+Tag is: 1ffc000e, blockOffset is: 4, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000378,8 hit 
+Tag is: 1ffc000d, blockOffset is: 8, set index: 3
+I am hit!!! my index is: 0
+ L 7ff000388,4 hit 
+Tag is: 1ffc000e, blockOffset is: 8, set index: 0
+i am kicking index: 1
+ L 600a38,4 miss eviction 
+Tag is: 18028, blockOffset is: 8, set index: 3
+I am hit!!! my index is: 0
+ S 7ff00038c,4, hit 
+Tag is: 1ffc000e, blockOffset is: 12, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000388,4 hit 
+Tag is: 1ffc000e, blockOffset is: 8, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000370,8 hit 
+Tag is: 1ffc000d, blockOffset is: 0, set index: 3
+I am hit!!! my index is: 0
+ L 7ff000384,4 hit 
+Tag is: 1ffc000e, blockOffset is: 4, set index: 0
+I am hit!!! my index is: 0
+ L 7ff00038c,4 hit 
+Tag is: 1ffc000e, blockOffset is: 12, set index: 0
+I am hit!!! my index is: 1
+ S 600a84,4, hit 
+Tag is: 1802a, blockOffset is: 4, set index: 0
+I am hit!!! my index is: 0
+I am hit!!! my index is: 0
+ M 7ff000388,4, hit hit 
+Tag is: 1ffc000e, blockOffset is: 8, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000388,4 hit 
+Tag is: 1ffc000e, blockOffset is: 8, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000384,4 hit 
+Tag is: 1ffc000e, blockOffset is: 4, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000378,8 hit 
+Tag is: 1ffc000d, blockOffset is: 8, set index: 3
+I am hit!!! my index is: 0
+ L 7ff000388,4 hit 
+Tag is: 1ffc000e, blockOffset is: 8, set index: 0
+I am hit!!! my index is: 1
+ L 600a3c,4 hit 
+Tag is: 18028, blockOffset is: 12, set index: 3
+I am hit!!! my index is: 0
+ S 7ff00038c,4, hit 
+Tag is: 1ffc000e, blockOffset is: 12, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000388,4 hit 
+Tag is: 1ffc000e, blockOffset is: 8, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000370,8 hit 
+Tag is: 1ffc000d, blockOffset is: 0, set index: 3
+I am hit!!! my index is: 0
+ L 7ff000384,4 hit 
+Tag is: 1ffc000e, blockOffset is: 4, set index: 0
+I am hit!!! my index is: 0
+ L 7ff00038c,4 hit 
+Tag is: 1ffc000e, blockOffset is: 12, set index: 0
+I am hit!!! my index is: 1
+ S 600a94,4, hit 
+Tag is: 1802a, blockOffset is: 4, set index: 1
+I am hit!!! my index is: 0
+I am hit!!! my index is: 0
+ M 7ff000388,4, hit hit 
+Tag is: 1ffc000e, blockOffset is: 8, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000388,4 hit 
+Tag is: 1ffc000e, blockOffset is: 8, set index: 0
+I am hit!!! my index is: 0
+I am hit!!! my index is: 0
+ M 7ff000384,4, hit hit 
+Tag is: 1ffc000e, blockOffset is: 4, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000384,4 hit 
+Tag is: 1ffc000e, blockOffset is: 4, set index: 0
+I am hit!!! my index is: 0
+ S 7ff000388,4, hit 
+Tag is: 1ffc000e, blockOffset is: 8, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000388,4 hit 
+Tag is: 1ffc000e, blockOffset is: 8, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000384,4 hit 
+Tag is: 1ffc000e, blockOffset is: 4, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000378,8 hit 
+Tag is: 1ffc000d, blockOffset is: 8, set index: 3
+I am hit!!! my index is: 0
+ L 7ff000388,4 hit 
+Tag is: 1ffc000e, blockOffset is: 8, set index: 0
+i am kicking index: 1
+ L 600a40,4 miss eviction 
+Tag is: 18029, blockOffset is: 0, set index: 0
+I am hit!!! my index is: 0
+ S 7ff00038c,4, hit 
+Tag is: 1ffc000e, blockOffset is: 12, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000388,4 hit 
+Tag is: 1ffc000e, blockOffset is: 8, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000370,8 hit 
+Tag is: 1ffc000d, blockOffset is: 0, set index: 3
+I am hit!!! my index is: 0
+ L 7ff000384,4 hit 
+Tag is: 1ffc000e, blockOffset is: 4, set index: 0
+I am hit!!! my index is: 0
+ L 7ff00038c,4 hit 
+Tag is: 1ffc000e, blockOffset is: 12, set index: 0
+I am hit!!! my index is: 0
+ S 600a68,4, hit 
+Tag is: 18029, blockOffset is: 8, set index: 2
+I am hit!!! my index is: 0
+I am hit!!! my index is: 0
+ M 7ff000388,4, hit hit 
+Tag is: 1ffc000e, blockOffset is: 8, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000388,4 hit 
+Tag is: 1ffc000e, blockOffset is: 8, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000384,4 hit 
+Tag is: 1ffc000e, blockOffset is: 4, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000378,8 hit 
+Tag is: 1ffc000d, blockOffset is: 8, set index: 3
+I am hit!!! my index is: 0
+ L 7ff000388,4 hit 
+Tag is: 1ffc000e, blockOffset is: 8, set index: 0
+I am hit!!! my index is: 1
+ L 600a44,4 hit 
+Tag is: 18029, blockOffset is: 4, set index: 0
+I am hit!!! my index is: 0
+ S 7ff00038c,4, hit 
+Tag is: 1ffc000e, blockOffset is: 12, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000388,4 hit 
+Tag is: 1ffc000e, blockOffset is: 8, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000370,8 hit 
+Tag is: 1ffc000d, blockOffset is: 0, set index: 3
+I am hit!!! my index is: 0
+ L 7ff000384,4 hit 
+Tag is: 1ffc000e, blockOffset is: 4, set index: 0
+I am hit!!! my index is: 0
+ L 7ff00038c,4 hit 
+Tag is: 1ffc000e, blockOffset is: 12, set index: 0
+i am kicking index: 1
+ S 600a78,4, miss eviction 
+Tag is: 18029, blockOffset is: 8, set index: 3
+I am hit!!! my index is: 0
+I am hit!!! my index is: 0
+ M 7ff000388,4, hit hit 
+Tag is: 1ffc000e, blockOffset is: 8, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000388,4 hit 
+Tag is: 1ffc000e, blockOffset is: 8, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000384,4 hit 
+Tag is: 1ffc000e, blockOffset is: 4, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000378,8 hit 
+Tag is: 1ffc000d, blockOffset is: 8, set index: 3
+I am hit!!! my index is: 0
+ L 7ff000388,4 hit 
+Tag is: 1ffc000e, blockOffset is: 8, set index: 0
+I am hit!!! my index is: 1
+ L 600a48,4 hit 
+Tag is: 18029, blockOffset is: 8, set index: 0
+I am hit!!! my index is: 0
+ S 7ff00038c,4, hit 
+Tag is: 1ffc000e, blockOffset is: 12, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000388,4 hit 
+Tag is: 1ffc000e, blockOffset is: 8, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000370,8 hit 
+Tag is: 1ffc000d, blockOffset is: 0, set index: 3
+I am hit!!! my index is: 0
+ L 7ff000384,4 hit 
+Tag is: 1ffc000e, blockOffset is: 4, set index: 0
+I am hit!!! my index is: 0
+ L 7ff00038c,4 hit 
+Tag is: 1ffc000e, blockOffset is: 12, set index: 0
+i am kicking index: 1
+ S 600a88,4, miss eviction 
+Tag is: 1802a, blockOffset is: 8, set index: 0
+I am hit!!! my index is: 0
+I am hit!!! my index is: 0
+ M 7ff000388,4, hit hit 
+Tag is: 1ffc000e, blockOffset is: 8, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000388,4 hit 
+Tag is: 1ffc000e, blockOffset is: 8, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000384,4 hit 
+Tag is: 1ffc000e, blockOffset is: 4, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000378,8 hit 
+Tag is: 1ffc000d, blockOffset is: 8, set index: 3
+I am hit!!! my index is: 0
+ L 7ff000388,4 hit 
+Tag is: 1ffc000e, blockOffset is: 8, set index: 0
+i am kicking index: 1
+ L 600a4c,4 miss eviction 
+Tag is: 18029, blockOffset is: 12, set index: 0
+I am hit!!! my index is: 0
+ S 7ff00038c,4, hit 
+Tag is: 1ffc000e, blockOffset is: 12, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000388,4 hit 
+Tag is: 1ffc000e, blockOffset is: 8, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000370,8 hit 
+Tag is: 1ffc000d, blockOffset is: 0, set index: 3
+I am hit!!! my index is: 0
+ L 7ff000384,4 hit 
+Tag is: 1ffc000e, blockOffset is: 4, set index: 0
+I am hit!!! my index is: 0
+ L 7ff00038c,4 hit 
+Tag is: 1ffc000e, blockOffset is: 12, set index: 0
+I am hit!!! my index is: 1
+ S 600a98,4, hit 
+Tag is: 1802a, blockOffset is: 8, set index: 1
+I am hit!!! my index is: 0
+I am hit!!! my index is: 0
+ M 7ff000388,4, hit hit 
+Tag is: 1ffc000e, blockOffset is: 8, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000388,4 hit 
+Tag is: 1ffc000e, blockOffset is: 8, set index: 0
+I am hit!!! my index is: 0
+I am hit!!! my index is: 0
+ M 7ff000384,4, hit hit 
+Tag is: 1ffc000e, blockOffset is: 4, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000384,4 hit 
+Tag is: 1ffc000e, blockOffset is: 4, set index: 0
+I am hit!!! my index is: 0
+ S 7ff000388,4, hit 
+Tag is: 1ffc000e, blockOffset is: 8, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000388,4 hit 
+Tag is: 1ffc000e, blockOffset is: 8, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000384,4 hit 
+Tag is: 1ffc000e, blockOffset is: 4, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000378,8 hit 
+Tag is: 1ffc000d, blockOffset is: 8, set index: 3
+I am hit!!! my index is: 0
+ L 7ff000388,4 hit 
+Tag is: 1ffc000e, blockOffset is: 8, set index: 0
+i am kicking index: 0
+ L 600a50,4 miss eviction 
+Tag is: 18029, blockOffset is: 0, set index: 1
+I am hit!!! my index is: 0
+ S 7ff00038c,4, hit 
+Tag is: 1ffc000e, blockOffset is: 12, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000388,4 hit 
+Tag is: 1ffc000e, blockOffset is: 8, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000370,8 hit 
+Tag is: 1ffc000d, blockOffset is: 0, set index: 3
+I am hit!!! my index is: 0
+ L 7ff000384,4 hit 
+Tag is: 1ffc000e, blockOffset is: 4, set index: 0
+I am hit!!! my index is: 0
+ L 7ff00038c,4 hit 
+Tag is: 1ffc000e, blockOffset is: 12, set index: 0
+I am hit!!! my index is: 0
+ S 600a6c,4, hit 
+Tag is: 18029, blockOffset is: 12, set index: 2
+I am hit!!! my index is: 0
+I am hit!!! my index is: 0
+ M 7ff000388,4, hit hit 
+Tag is: 1ffc000e, blockOffset is: 8, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000388,4 hit 
+Tag is: 1ffc000e, blockOffset is: 8, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000384,4 hit 
+Tag is: 1ffc000e, blockOffset is: 4, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000378,8 hit 
+Tag is: 1ffc000d, blockOffset is: 8, set index: 3
+I am hit!!! my index is: 0
+ L 7ff000388,4 hit 
+Tag is: 1ffc000e, blockOffset is: 8, set index: 0
+I am hit!!! my index is: 0
+ L 600a54,4 hit 
+Tag is: 18029, blockOffset is: 4, set index: 1
+I am hit!!! my index is: 0
+ S 7ff00038c,4, hit 
+Tag is: 1ffc000e, blockOffset is: 12, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000388,4 hit 
+Tag is: 1ffc000e, blockOffset is: 8, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000370,8 hit 
+Tag is: 1ffc000d, blockOffset is: 0, set index: 3
+I am hit!!! my index is: 0
+ L 7ff000384,4 hit 
+Tag is: 1ffc000e, blockOffset is: 4, set index: 0
+I am hit!!! my index is: 0
+ L 7ff00038c,4 hit 
+Tag is: 1ffc000e, blockOffset is: 12, set index: 0
+I am hit!!! my index is: 1
+ S 600a7c,4, hit 
+Tag is: 18029, blockOffset is: 12, set index: 3
+I am hit!!! my index is: 0
+I am hit!!! my index is: 0
+ M 7ff000388,4, hit hit 
+Tag is: 1ffc000e, blockOffset is: 8, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000388,4 hit 
+Tag is: 1ffc000e, blockOffset is: 8, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000384,4 hit 
+Tag is: 1ffc000e, blockOffset is: 4, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000378,8 hit 
+Tag is: 1ffc000d, blockOffset is: 8, set index: 3
+I am hit!!! my index is: 0
+ L 7ff000388,4 hit 
+Tag is: 1ffc000e, blockOffset is: 8, set index: 0
+I am hit!!! my index is: 0
+ L 600a58,4 hit 
+Tag is: 18029, blockOffset is: 8, set index: 1
+I am hit!!! my index is: 0
+ S 7ff00038c,4, hit 
+Tag is: 1ffc000e, blockOffset is: 12, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000388,4 hit 
+Tag is: 1ffc000e, blockOffset is: 8, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000370,8 hit 
+Tag is: 1ffc000d, blockOffset is: 0, set index: 3
+I am hit!!! my index is: 0
+ L 7ff000384,4 hit 
+Tag is: 1ffc000e, blockOffset is: 4, set index: 0
+I am hit!!! my index is: 0
+ L 7ff00038c,4 hit 
+Tag is: 1ffc000e, blockOffset is: 12, set index: 0
+i am kicking index: 1
+ S 600a8c,4, miss eviction 
+Tag is: 1802a, blockOffset is: 12, set index: 0
+I am hit!!! my index is: 0
+I am hit!!! my index is: 0
+ M 7ff000388,4, hit hit 
+Tag is: 1ffc000e, blockOffset is: 8, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000388,4 hit 
+Tag is: 1ffc000e, blockOffset is: 8, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000384,4 hit 
+Tag is: 1ffc000e, blockOffset is: 4, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000378,8 hit 
+Tag is: 1ffc000d, blockOffset is: 8, set index: 3
+I am hit!!! my index is: 0
+ L 7ff000388,4 hit 
+Tag is: 1ffc000e, blockOffset is: 8, set index: 0
+I am hit!!! my index is: 0
+ L 600a5c,4 hit 
+Tag is: 18029, blockOffset is: 12, set index: 1
+I am hit!!! my index is: 0
+ S 7ff00038c,4, hit 
+Tag is: 1ffc000e, blockOffset is: 12, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000388,4 hit 
+Tag is: 1ffc000e, blockOffset is: 8, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000370,8 hit 
+Tag is: 1ffc000d, blockOffset is: 0, set index: 3
+I am hit!!! my index is: 0
+ L 7ff000384,4 hit 
+Tag is: 1ffc000e, blockOffset is: 4, set index: 0
+I am hit!!! my index is: 0
+ L 7ff00038c,4 hit 
+Tag is: 1ffc000e, blockOffset is: 12, set index: 0
+I am hit!!! my index is: 1
+ S 600a9c,4, hit 
+Tag is: 1802a, blockOffset is: 12, set index: 1
+I am hit!!! my index is: 0
+I am hit!!! my index is: 0
+ M 7ff000388,4, hit hit 
+Tag is: 1ffc000e, blockOffset is: 8, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000388,4 hit 
+Tag is: 1ffc000e, blockOffset is: 8, set index: 0
+I am hit!!! my index is: 0
+I am hit!!! my index is: 0
+ M 7ff000384,4, hit hit 
+Tag is: 1ffc000e, blockOffset is: 4, set index: 0
+I am hit!!! my index is: 0
+ L 7ff000384,4 hit 
+Tag is: 1ffc000e, blockOffset is: 4, set index: 0
+i am kicking index: 0
+ L 7ff000390,8 miss eviction 
+Tag is: 1ffc000e, blockOffset is: 0, set index: 1
+I am hit!!! my index is: 0
+ L 7ff000398,8 hit 
+Tag is: 1ffc000e, blockOffset is: 8, set index: 1
+i am kicking index: 1
+ L 600aa0,1 miss eviction 
+Tag is: 1802a, blockOffset is: 0, set index: 2
+hits:218 misses:20 evictions:12
